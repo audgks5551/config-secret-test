@@ -1,4 +1,4 @@
 service:
-  profiles: prod
+  profile: prod
 
 username: dddd
